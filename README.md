@@ -4,7 +4,7 @@
 This project is a static portfolio website hosted on Amazon S3 and delivered globally through Amazon CloudFront.
 
 ## Live Demo
-https://your-cloudfront-url.cloudfront.net
+https://dlw258obpoqny.cloudfront.net
 
 ## Services Used
 - Amazon S3
