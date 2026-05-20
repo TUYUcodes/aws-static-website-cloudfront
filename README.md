@@ -28,7 +28,18 @@ User → CloudFront → S3 Bucket → Static Website Files
 I ran into permission-related confusion while setting up the S3 bucket and CloudFront distribution. I worked through the issue by reviewing access settings and testing the CloudFront URL until the website loaded correctly.
 
 ## Screenshots
-Add screenshots here:
-- Live website
-- S3 bucket files
-- CloudFront distribution
+
+### Live Website
+![Live Website](screenshots/01-live-website.png)
+
+### S3 Bucket Objects
+![S3 Bucket Objects](screenshots/02-s3-bucket-objects.png)
+
+### CloudFront Distribution
+![CloudFront Distribution](screenshots/03-cloudfront-distribution.png)
+
+### CloudFront Details
+![CloudFront Details](screenshots/04-cloudfront-details.png)
+
+### CloudFront Origin
+![CloudFront Origin](screenshots/05-cloudfront-origin.png)
